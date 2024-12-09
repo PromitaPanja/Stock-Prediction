@@ -47,4 +47,4 @@ This project demonstrates how to forecast stock prices using the **Prophet** lib
 This project effectively forecasts stock prices, visualizes trends, and evaluates predictions. It’s a flexible and reusable solution for stock analysis.
 
 ## Author
-[Promita Panja]
+Promita Panja
